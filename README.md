@@ -27,6 +27,7 @@ schneller zu ihrem Ziel gelangten als wenn sie zur gleichen Uhrzeit mit der U-ba
 mit einem Taxi gefahren wären.
 Tipp: Nutzen Sie die API von Google Maps (https://developers.google.com/maps/?hl=de) und vergleichen Sie die benötigte Zeit für die
 Strecke zwischen A und B mit Auto/Fahrrad/Bahn/. Achten Sie hierbei auf die Uhrzeit!
+https://developers.google.com/maps/documentation/directions/get-directions?hl=de#maps_http_directions_toronto_montreal_bicycling-py
 6. Laden Sie diese Daten vom NYPD herunter (https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95). Skizzieren Sie für CitiBike Kooperations-
 möglichkeiten mit einer Versicherung (und/oder umgekehrt). Nutzen Sie gegebenfalls
 weitere Datenquellen um Ihre Argumente zu untermauern.
